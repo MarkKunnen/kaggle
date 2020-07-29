@@ -1,6 +1,6 @@
-# kaggle
+# Kaggle
 
-Dunnhumby Kaggle EDA:
+Dunnhumby EDA:
 https://www.kaggle.com/markkunnen/dunnhumby-eda/
   
 * Simple exploratory data analysis with some of the questions I would look at exploring a new dataset.
